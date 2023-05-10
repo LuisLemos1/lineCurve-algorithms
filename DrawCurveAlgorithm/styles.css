@@ -1,0 +1,19 @@
+body { 
+    margin: 0; 
+}
+
+canvas {
+    width: auto;
+}
+
+#legenda {
+    position: absolute;
+    float: right;
+    right: 1em;
+    bottom: -1em;
+    right: 1em;
+    z-index: 200;
+    font-weight:bolder;
+    font-size:x-large;
+    color: white;
+}
